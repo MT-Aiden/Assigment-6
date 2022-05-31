@@ -1,4 +1,4 @@
-# ICS2O-Template-HTML-PWA
+# Assigment-6
 
 [![GitHub's Super Linter](https://github.com/MT-Aiden/Assigment-6/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/MT-Aiden/Assigment-6/actions)
 
